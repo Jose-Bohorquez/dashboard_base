@@ -1,0 +1,12 @@
+sitio_inicial/index.html
+├── Externas
+│   ├── Bootstrap Icons (CDN)
+│   └── Canonical URL
+├── Locales
+│   ├── ../assets/js/color-modes.js
+│   ├── ../assets/dist/js/bootstrap.bundle.min.js
+│   └── ../assets/dist/css/bootstrap.min.css
+└── Embebidas
+    ├── SVG Icons (múltiples símbolos)
+    ├── CSS personalizado (~400 líneas)
+    └── JavaScript personalizado (~100 líneas)
